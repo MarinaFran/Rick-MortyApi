@@ -10,4 +10,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 reference 
 https://rickandmortyapi.com/documentation/#info-and-pagination
+<img width="1238" height="796" alt="image" src="https://github.com/user-attachments/assets/47c5c12e-12e0-45da-bede-6c0fcf40d9fa" />
+
 
